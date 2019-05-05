@@ -63,7 +63,6 @@ node ./bin/www
 ![setup0080_express_0002](https://user-images.githubusercontent.com/50263232/57186379-f57cb600-6f18-11e9-9a11-7810c9bb5881.png)  
 ![setup0080_express_0003](https://user-images.githubusercontent.com/50263232/57186382-03cad200-6f19-11e9-84cd-925d14a59a2f.png)  
 ![setup0080_express_0004](https://user-images.githubusercontent.com/50263232/57186384-10e7c100-6f19-11e9-9a51-bd2bc6d10b83.png)  
-![setup0080_express_0005](https://user-images.githubusercontent.com/50263232/57186388-1d6c1980-6f19-11e9-865e-3be7f7d962c3.png)  
 
 ### Stop Express server
 ```sh
@@ -71,7 +70,7 @@ node ./bin/www
 [CTRL] + c
 lsof -i
 ```
-![setup0080_express_0005.png]()  
+![setup0080_express_0005](https://user-images.githubusercontent.com/50263232/57186388-1d6c1980-6f19-11e9-865e-3be7f7d962c3.png)  
 By using `lsof -i`, you can confirm the remaining process.  
 In the case of remaining, kill the process.  
 
